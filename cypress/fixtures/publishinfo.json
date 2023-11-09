@@ -1,0 +1,6 @@
+{
+    "url": "https://example.cypress.io/todo",
+    "login": "user1",
+    "password": "pwd1",
+    "text": "text to publish"
+}
